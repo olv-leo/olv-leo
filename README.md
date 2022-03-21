@@ -2,9 +2,9 @@
 - 👀 Estou interessado em entrar na área de desenvolvimento, mais especificamente na área de Back-end com Python utilizando o Django.
 - 🌱 Atualmente estou estudando Python, Django e cursando Analise e Desenvolvimento de Sistemas (1/6).
 - 💻 Gosto de resolver problemas e desafios de lógica de programação:
-  - Meu perfil no codewars: https://www.codewars.com/users/olvleo
-  - Meu perfil no leetcode: https://leetcode.com/olv-leo/
-  - Meu canal "Estudando Programação na Prática": https://ytube.io/3M7P
+  - Codewars: [olvleo](https://www.codewars.com/users/olvleo)
+  - Leetcode: [olv-leo](https://leetcode.com/olv-leo/)
+  - Youtube: [Estudando Programação na Prática](https://ytube.io/3M7P)
 - 📫 Me mandar um alô:
   - Email: olv.leo@outlook.com
-  - Instagram: https://www.instagram.com/olv.leo/
+  - Instagram: [olv.leo](https://www.instagram.com/olv.leo)
