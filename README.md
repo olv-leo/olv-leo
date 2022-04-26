@@ -5,9 +5,10 @@
 - 📽️ Gosto de documentar meu aprendizado, você pode acompanhar o que já publica por aqui:
   - [Meu Canal](https://bityli.com/Mbgjxk)
   - [Estudando Programação na Prática](https://ytube.io/3M7P)
+  - [Medium](https://medium.com/@olvleo)
 - 💻 Também gosto de resolver problemas de algoritimos e lógica de programação, repositórios com esse foco:
   - [Soluções Codewars](https://github.com/olv-leo/solucoes-codewars)
   - [Coding in interview training](https://github.com/olv-leo/code-interview-training)
 - 📫 Me mandar um alô:
   - [Linkedin](https://www.linkedin.com/in/leonardo-oliveira-173b21172)
-  - [Email](olv.leo@outlook.com)
+  - Email: olv.leo@outlook.com
