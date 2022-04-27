@@ -3,7 +3,7 @@
 - 👀 Estou interessado em entrar na área de desenvolvimento web, mais especificamente na área de Back-end com Python
   utilizando o Django.
 - 🌱 Atualmente estou fazendo o curso da Django da plataforma DevPro e cursando Analise e Desenvolvimento de Sistemas (1/6).
-- 📽️ Gosto de documentar meu aprendizado, você pode acompanhar o que já publica por aqui:
+- 📽️ Gosto de documentar meu aprendizado, você pode acompanhar o que já publiquei por aqui:
   - [Meu Canal](https://bityli.com/Mbgjxk)
   - [Estudando Programação na Prática](https://ytube.io/3M7P)
   - [Medium](https://medium.com/@olvleo)
