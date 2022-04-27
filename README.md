@@ -1,6 +1,7 @@
 # Olá mundo! 🌍
 - 👋 Eu sou o Leonardo Oliveira, mas pode me chamar de Léo, moro em São Carlos/SP - Brasil.
-- 👀 Estou interessado em entrar na área de desenvolvimento, mais especificamente na área de Back-end com Python utilizando o Django.
+- 👀 Estou interessado em entrar na área de desenvolvimento web, mais especificamente na área de Back-end com Python
+  utilizando o Django.
 - 🌱 Atualmente estou fazendo o curso da Django da plataforma DevPro e cursando Analise e Desenvolvimento de Sistemas (1/6).
 - 📽️ Gosto de documentar meu aprendizado, você pode acompanhar o que já publica por aqui:
   - [Meu Canal](https://bityli.com/Mbgjxk)
@@ -12,3 +13,15 @@
 - 📫 Me mandar um alô:
   - [Linkedin](https://www.linkedin.com/in/leonardo-oliveira-173b21172)
   - Email: olv.leo@outlook.com
+
+### ⌨ Linguagem
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Ferramentas
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
